@@ -1,8 +1,8 @@
 # 暇人鯖 (Hima Server)
-
-**暇人鯖**は、誰でも楽しめるDiscrdコミュニティサーバーです！
-また、自由で楽しいマインクラフトの世界を提供しています！  
-友達と一緒に建築や冒険を楽しむもよし、経済システムやミニゲームで遊ぶもよし。初心者から熟練者まで、誰でも大歓迎！
+![gif](https://lh6.googleusercontent.com/3Ct6k3lgU01Zp5OCaFL0a_1SCaXfNaMDEfP0Pppwtm9W2ltNOzmCdYZW0dROdRL62SLjK9vumgPMIpyJUL0TnQKzLVsQJPyutbUztXSl2uUuM0f3W0fEY_jXx2bFQ4d_1w=w1280)<br>
+**暇人鯖**は、誰でも楽しめるDiscrdコミュニティサーバーです！<br>
+また、自由で楽しいマインクラフトの世界を提供しています！  <br>
+友達と一緒に建築や冒険を楽しむもよし、経済システムやミニゲームで遊ぶもよし。初心者から熟練者まで、誰でも大歓迎！<br>
 
 ## マイクラ鯖の特徴
 
